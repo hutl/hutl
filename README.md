@@ -8,4 +8,4 @@ Hey there, I'm pretty new to this stuff, so I don't have much experience...
 I did this, though :
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hutl&repo=hutl.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hutl&repo=evenBank)](https://github.com/anuraghazra/github-readme-stats)
